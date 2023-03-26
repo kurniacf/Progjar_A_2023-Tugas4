@@ -6,6 +6,8 @@
 ## Daftar Isi
 - [Deskripsi](#deskripsi)
     - [1. Upload File](#1-upload-file) 
+    - [2. Hapus File](#2-hapus-file)
+- [Implementasi Operasi Server & Client](#implementasi-operasi-server--client)
 
 
 ## Deskripsi
